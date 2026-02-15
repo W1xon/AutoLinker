@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
   "mandatory": false,
-  "minSupportedVersion": "1.0.1",
+  "version": "1.0.2",
+  "minSupportedVersion": "1.0.0"
   "releaseDate": "2026-02-15",
   "changelog": [
     "Update UI"
