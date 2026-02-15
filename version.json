@@ -4,7 +4,7 @@
   "minSupportedVersion": "1.0.0"
   "releaseDate": "2026-02-15",
   "changelog": [
-    "Update UI"
+    "Поправил отображение времени на странице входа"
   ],
   "downloadUrl": "https://github.com/W1xon/AutoLinker/releases/latest/download/AutoLinker.zip"
 }
