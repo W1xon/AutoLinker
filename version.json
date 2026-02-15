@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "mandatory": false,
+  "minSupportedVersion": "1.0.0",
+  "releaseDate": "2026-02-15",
+  "changelog": [
+    "Initial public release"
+  ],
+  "downloadUrl": "https://github.com/W1xon/AutoLinker/releases/latest/download/AutoLinker.exe"
+}
