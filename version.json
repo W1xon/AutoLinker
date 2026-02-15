@@ -4,7 +4,8 @@
   "minSupportedVersion": "1.0.2",
   "releaseDate": "2026-02-15",
   "changelog": [
-    "Поправил отображение времени на странице входа"
+    "Поправил отображение времени на странице входа",
+    "Добавил прогресс бар в окно обновления"
   ],
   "downloadUrl": "https://github.com/W1xon/AutoLinker/releases/latest/download/AutoLinker.zip"
 }
