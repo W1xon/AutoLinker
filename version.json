@@ -2,7 +2,7 @@
   "mandatory": false,
   "version": "1.0.2",
   "minSupportedVersion": "1.0.2",
-  "releaseDate": "2026-02-15",
+  "releaseDate": "2026-02-16",
   "changelog": [
     "Поправил отображение времени на странице входа",
     "Добавил прогресс бар в окно обновления",
