@@ -6,7 +6,7 @@
   "changelog": [
     "Поправил отображение времени на странице входа",
     "Добавил прогресс бар в окно обновления",
-    "Исправлен баг с подключением к Физре",
+    "Исправлен баг с подключением к Физре"
   ],
   "downloadUrl": "https://github.com/W1xon/AutoLinker/releases/latest/download/AutoLinker.zip"
 }
