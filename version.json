@@ -1,13 +1,12 @@
 {
   "mandatory": false,
-  "version": "1.0.3",
-  "minSupportedVersion": "1.0.3",
-  "releaseDate": "2026-02-16",
+  "version": "1.1.0",
+  "minSupportedVersion": "1.1.0",
+  "releaseDate": "2026-02-20",
   "changelog": [
-    "Поправил отображение времени на странице входа",
-    "Добавил прогресс бар в окно обновления",
-    "Исправлен баг с подключением к Физре",
-    "Bug fix"
+    "Добавлено аккуратно оформленное расписание на неделю",
+    "Исправлено падение при отсутствии интернет-соединения",
+    "Общая стабилизация работы"
   ],
   "downloadUrl": "https://github.com/W1xon/AutoLinker/releases/latest/download/AutoLinker.zip"
 }
