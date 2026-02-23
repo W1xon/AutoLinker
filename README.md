@@ -3,7 +3,7 @@
 # 🔗 AutoLinker
 <h3><i>Автоматическое подключение к онлайн-занятиям</i></h3>
 
-[![Version](https://img.shields.io/badge/version-1.1.0-cyan.svg?style=for-the-badge)](https://github.com/W1xon/AutoLinker/releases)
+[![Version](https://img.shields.io/badge/version-1.1.1-cyan.svg?style=for-the-badge)](https://github.com/W1xon/AutoLinker/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows-0078d7.svg?style=for-the-badge)](https://dotnet.microsoft.com/download)
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge)](LICENSE)
 
